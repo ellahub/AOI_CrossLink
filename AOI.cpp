@@ -1,5 +1,6 @@
 #include "AOI.h"
 #include "SceneRole.h"
+//author: atao 1628025718@qq.com
 
 CL::AOI::AOI(uint16_t width, uint16_t height) :
 	width_(width), height_(height)
